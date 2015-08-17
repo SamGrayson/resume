@@ -5,12 +5,13 @@ html {
 body {
   height: 100%;
   width: 100%;
-  background-image: url('small_steps.png');
+  background-image: url('linedpaper.png');
 }
 .resumeWrapper {
+  margin: 0 auto;
   width: 900px;
   height: 1010px;
-  margin: 0 auto;
+  background-color: white;
 }
 
 object {

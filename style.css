@@ -18,8 +18,20 @@ body {
   margin-top: 25px;
   width: 80%;
   height: 150px;
-  background: -webkit-linear-gradient($deepPurple, #9575CD);background: linear-gradient($deepPurple,#9575CD);
+  background: -webkit-linear-gradient(#673AB7, #9575CD);background: linear-gradient(#673AB7,#9575CD);
   color: white;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+          align-items: center;
 }
 
 object {

@@ -14,6 +14,14 @@ body {
   background-color: white;
 }
 
+.download {
+  margin-top: 25px;
+  width: 80%;
+  height: 150px;
+  background: -webkit-linear-gradient($deepPurple, #9575CD);background: linear-gradient($deepPurple,#9575CD);
+  color: white;
+}
+
 object {
   width: 100%;
   height: 100%;

@@ -16,6 +16,9 @@
 	.st10{fill:none;stroke:#673AB7;stroke-width:0.5;stroke-miterlimit:10;}
 	.st11{fill:none;stroke:#673AB7;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st12{font-size:8px;}
+	#weblink:hover {
+		text-decoration: underline;
+	}
 </style>
 <text transform="matrix(1 0 0 1 291.821 73.2598)" class="st0 st1 st2">Samuel C. Grayson</text>
 <g>
@@ -24,7 +27,7 @@
 <g>
 	<text transform="matrix(1 0 0 1 75.3326 60.8188)" class="st0 st1 st5">WEBSITE</text>
 </g>
-<text transform="matrix(1 0 0 1 77.1512 73.2597)" class="st1 st6">samgrayson.github.io</text>
+<a xlink:href="http://samgrayson.github.io/portfolio/app" target="_blank" id="weblink"><text transform="matrix(1 0 0 1 77.1512 73.2597)" class="st1 st6">samgrayson.github.io</text></a>
 <text transform="matrix(1 0 0 1 75.3328 96.0925)" class="st0 st1 st5">MOBILE</text>
 <text transform="matrix(1 0 0 1 77.1511 109.3277)" class="st1 st6">(678) - 294 - 8443</text>
 <text transform="matrix(1 0 0 1 75.3325 132.0298)" class="st0 st1 st5">EMAIL</text>
@@ -45,7 +48,7 @@
 <text transform="matrix(1 0 0 1 74.857 442.2119)" class="st0 st1 st5">Pizza Renaissance Man</text>
 <text transform="matrix(1 0 0 1 75.8081 453.4692)" class="st1 st6">Peachtree City, GA</text>
 <circle class="st10" cx="64.3" cy="70.3" r="7.2"/>
-<circle class="st10" cx="64.3" cy="107.2" r="7.2"/>
+<circle class="st10" cx="64.3" cy="106.7" r="7.2"/>
 <circle class="st10" cx="64.3" cy="142" r="7.2"/>
 <path class="st10" d="M64.3,63.1c-0.9,0-8.9,7.3,0,14.5"/>
 <path class="st10" d="M64.3,63.1c0.9-0.2,8.9,7.1,0,14.5"/>
@@ -53,9 +56,9 @@
 <line class="st11" x1="58.2" y1="74.5" x2="70.2" y2="74.5"/>
 <line class="st10" x1="57.1" y1="70.3" x2="71.5" y2="70.3"/>
 <line class="st10" x1="58.2" y1="66.2" x2="70.1" y2="66.2"/>
-<path class="st11" d="M61.6,103.6c-0.9-0.5-1.5,1.6-1.6,2.3c-0.1,1.6,1.2,2.7,1.7,3.2c1.1,1,3.3,2.3,5.2,1.6
+<path class="st11" d="M61.6,103.2c-0.9-0.5-1.5,1.6-1.6,2.3c-0.1,1.6,1.2,2.7,1.7,3.2c1.1,1,3.3,2.3,5.2,1.6
 	c0.9-0.3,2.5-1.6,1.7-2.1c-0.8-0.5-1.7-1-2.4-1.1c-0.4-0.1-0.1,1.1-0.3,1.6c-0.1,0.6-2-0.5-3-1.4c-0.2-0.1-1.3-1.2-1-1.2
-	c0.6-0.1,0.7-0.1,1.1-0.3c0.4-0.2,0.7-0.6,0.5-0.8C63,104.7,62.4,104.1,61.6,103.6z"/>
+	c0.6-0.1,0.7-0.1,1.1-0.3c0.4-0.2,0.7-0.6,0.5-0.8C63,104.2,62.4,103.6,61.6,103.2z"/>
 <path class="st11" d="M67.3,145.2h-6c-0.7,0-1.2-0.5-1.2-1.2v-4.1c0-0.4,0.2-0.7,0.4-0.9c0.2-0.2,0.5-0.3,0.8-0.3h6
 	c0.7,0,1.2,0.5,1.2,1.2v4.1C68.5,144.7,67.9,145.2,67.3,145.2z"/>
 <polyline class="st11" points="60.5,139 64.3,142 68.1,139 "/>
@@ -87,9 +90,9 @@
 <line class="st9" x1="213" y1="589.9" x2="76.1" y2="589.9"/>
 <line class="st9" x1="355.7" y1="589.9" x2="549.6" y2="589.9"/>
 <text transform="matrix(1 0 0 1 78.1026 567.6668)" class="st1 st12">2010 - 2014</text>
-<text transform="matrix(1 0 0 1 93.4631 624.6935)"><tspan x="0" y="0" class="st0 st1 st7">Programming</tspan><tspan x="0" y="50.4" class="st0 st1 st7">Development</tspan><tspan x="0" y="100.8" class="st0 st1 st7">Non-Tech</tspan></text>
-<text transform="matrix(1 0 0 1 212.9653 624.6936)"><tspan x="0" y="0" class="st1 st5">Javascript, Jquery, Angular.js, Backbone.js, NODE.js,SASS,</tspan><tspan x="0" y="14.4" class="st1 st5">HTML5, CSS3</tspan></text>
-<text transform="matrix(1 0 0 1 212.9653 675.0148)"><tspan x="0" y="0" class="st1 st5">Adobe Creative Suite, Bootstrap, NPM/Bower, Passport,</tspan><tspan x="0" y="14.4" class="st1 st5">O-Auth/OpenID, GIT/GitHub, Heroku, MongoDB</tspan></text>
-<text transform="matrix(1 0 0 1 212.9655 726.309)"><tspan x="0" y="0" class="st1 st5">Leadership, Public Speaking, Organization, Team Work</tspan><tspan x="0" y="14.4" class="st1 st5">Problem Solving, The gift of gab</tspan></text>
+<text transform="matrix(1 0 0 1 103.8512 625.1801)"><tspan x="0" y="0" class="st0 st1 st7">Programming</tspan><tspan x="0" y="50.4" class="st0 st1 st7">Development</tspan><tspan x="0" y="100.8" class="st0 st1 st7">Non-Tech</tspan></text>
+<text transform="matrix(1 0 0 1 223.3533 625.1801)"><tspan x="0" y="0" class="st1 st5">Javascript, Jquery, Angular.js, Backbone.js, NODE.js,SASS,</tspan><tspan x="0" y="14.4" class="st1 st5">HTML5, CSS3</tspan></text>
+<text transform="matrix(1 0 0 1 223.3533 675.5013)"><tspan x="0" y="0" class="st1 st5">Adobe Creative Suite, Bootstrap, NPM/Bower, Passport,</tspan><tspan x="0" y="14.4" class="st1 st5">O-Auth/OpenID, GIT/GitHub, Heroku, MongoDB</tspan></text>
+<text transform="matrix(1 0 0 1 223.3535 726.7955)"><tspan x="0" y="0" class="st1 st5">Leadership, Public Speaking, Organization, Team Work</tspan><tspan x="0" y="14.4" class="st1 st5">Problem Solving, The gift of gab</tspan></text>
 <text transform="matrix(1 0 0 1 293.6638 119.5809)" class="st1 st5">Front End Developer</text>
 </svg>

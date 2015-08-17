@@ -15,7 +15,7 @@ body {
 }
 
 .download {
-  margin-top: 25px auto;
+  margin: 25px auto;
   width: 80%;
   height: 100px;
   background-color: #673AB7;
@@ -34,6 +34,7 @@ body {
   -webkit-align-items: center;
   -ms-flex-align: center;
           align-items: center;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .download:hover {

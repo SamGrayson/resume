@@ -15,11 +15,13 @@ body {
 }
 
 .download {
-  margin-top: 25px;
+  margin-top: 25px auto;
   width: 80%;
-  height: 150px;
-  background: -webkit-linear-gradient(#673AB7, #9575CD);background: linear-gradient(#673AB7,#9575CD);
+  height: 100px;
+  background-color: #673AB7;
+  font-weight: lighter;
   color: white;
+  -webkit-transition: .5s ease;transition: .5s ease;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -32,6 +34,10 @@ body {
   -webkit-align-items: center;
   -ms-flex-align: center;
           align-items: center;
+}
+
+.download:hover {
+  background: -webkit-linear-gradient(#673AB7, #9575CD);background: linear-gradient(#673AB7,#9575CD);
 }
 
 object {

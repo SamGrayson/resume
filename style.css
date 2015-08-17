@@ -5,11 +5,12 @@ html {
 body {
   height: 100%;
   width: 100%;
-  background: url('small_steps.png')
+  background-image: url('small_steps.png');
 }
 .resumeWrapper {
   width: 900px;
   height: 1010px;
+  margin: 0 auto;
 }
 
 object {

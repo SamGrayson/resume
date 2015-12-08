@@ -23,8 +23,8 @@ body {
   border-radius: 25px;
   font-size: 12px;
   color: white;
-  -webkit-transition: .5s ease;
-  transition: .5s ease;
+  -webkit-transition: all .5s ease;
+  transition: all .5s ease;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -51,6 +51,7 @@ button {
   color: white;
   background-color: #673AB7;
   border: none;
+  -webkit-transition: all .5s ease;transition: all .5s ease;
   border-radius: 25px;
 }
 

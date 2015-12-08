@@ -35,14 +35,14 @@
 <text transform="matrix(1.0174 0 0 1 230.4245 183.8911)" class="st0 st1 st7 st8">EXPERIENCE</text>
 <line class="st9" x1="212.2" y1="180" x2="75.3" y2="180"/>
 <line class="st9" x1="355" y1="180" x2="548.8" y2="180"/>
-<text transform="matrix(1 0 0 1 76.6759 217.5097)" class="st1 st7">The Iron Yard</text>
-<text transform="matrix(1 0 0 1 76.6759 230.9753)" class="st0 st1 st5">Front-End Student</text>
+<text transform="matrix(1 0 0 1 76.6759 217.5097)" class="st1 st7">Good Done Great</text>
+<text transform="matrix(1 0 0 1 76.6759 230.9753)" class="st0 st1 st5">Front-End Developer</text>
 <text transform="matrix(1 0 0 1 77.6269 242.2326)" class="st1 st6">Charleston, SC</text>
-<text transform="matrix(1 0 0 1 77.1514 288.6858)" class="st1 st7">HeavyDuty Branding</text>
-<text transform="matrix(1 0 0 1 77.1514 302.1514)" class="st0 st1 st5">Marketing Intern</text>
-<text transform="matrix(1 0 0 1 78.1025 313.4087)" class="st1 st6">Atlanta, GA</text>
-<text transform="matrix(1 0 0 1 76.2005 358.3009)" class="st1 st7">Air Serv</text>
-<text transform="matrix(1 0 0 1 76.2005 371.7665)" class="st0 st1 st5">Wheelchair Assistant</text>
+<text transform="matrix(1 0 0 1 77.1514 288.6858)" class="st1 st7">The Iron Yard</text>
+<text transform="matrix(1 0 0 1 77.1514 302.1514)" class="st0 st1 st5">Front-End Student</text>
+<text transform="matrix(1 0 0 1 78.1025 313.4087)" class="st1 st6">Charleston, SC</text>
+<text transform="matrix(1 0 0 1 76.2005 358.3009)" class="st1 st7">HeavyDuty Branding</text>
+<text transform="matrix(1 0 0 1 76.2005 371.7665)" class="st0 st1 st5">Marketing Intern</text>
 <text transform="matrix(1 0 0 1 77.1515 383.0237)" class="st1 st6">Atlanta, GA</text>
 <text transform="matrix(1 0 0 1 74.857 428.7463)" class="st1 st7">Partners II Pizza</text>
 <text transform="matrix(1 0 0 1 74.857 442.2119)" class="st0 st1 st5">Pizza Renaissance Man</text>
@@ -62,11 +62,13 @@
 <path class="st11" d="M67.3,145.2h-6c-0.7,0-1.2-0.5-1.2-1.2v-4.1c0-0.4,0.2-0.7,0.4-0.9c0.2-0.2,0.5-0.3,0.8-0.3h6
 	c0.7,0,1.2,0.5,1.2,1.2v4.1C68.5,144.7,67.9,145.2,67.3,145.2z"/>
 <polyline class="st11" points="60.5,139 64.3,142 68.1,139 "/>
-<text transform="matrix(1 0 0 1 240.955 217.5098)"><tspan x="0" y="0" class="st1 st6">Completed an extensive, comprehensive coding school teaching</tspan><tspan x="0" y="12" class="st1 st6">all aspects of front end engineering and web development. </tspan></text>
-<text transform="matrix(1 0 0 1 240.9552 288.6858)"><tspan x="0" y="0" class="st1 st6">Organized and maintained prospective client lists.</tspan><tspan x="0" y="12" class="st1 st6">Marketing research on potential leads and trends in the field. </tspan><tspan x="0" y="24" class="st1 st6">Maintained various social media outlets.</tspan></text>
-<text transform="matrix(1 0 0 1 240.9553 358.3008)"><tspan x="0" y="0" class="st1 st6">Assisted passengers to their destinations at Hartsfield airport </tspan><tspan x="0" y="12" class="st1 st6">in Atlanta. Attending to their needs, questions, and concerns.</tspan><tspan x="0" y="24" class="st1 st6">Learned amazing values from stories of love, work, and life.</tspan></text>
+<text transform="matrix(1 0 0 1 240.955 217.5098)"><tspan x="0" y="0" class="st1 st6">Updated and created new views for DonateWell.com UI using Angular.</tspan><tspan x="0" y="12" class="st1 st6">Fixed active bugs in Javascript, CSS, and more. </tspan><tspan x="0" y="24" class="st1 st6">Collaberated on future features for DonateWell software.</tspan></text>
+<text transform="matrix(1 0 0 1 240.9552 288.6858)"><tspan x="0" y="0" class="st1 st6">Completed an extensive, comprehensive coding school teaching</tspan><tspan x="0" y="12" class="st1 st6">all aspects of front end engineering and web development. </tspan><tspan x="0" y="24" class="st1 st6">Maintained various social media outlets.</tspan></text>
+<text transform="matrix(1 0 0 1 240.9553 358.3008)"><tspan x="0" y="0" class="st1 st6">Organized and maintained prospective client lists. </tspan><tspan x="0" y="12" class="st1 st6">Marketing research on potential leads and trends in the field.</tspan><tspan x="0" y="24" class="st1 st6">Maintained various social media outlets.</tspan></text>
 <text transform="matrix(1 0 0 1 240.9549 428.7468)"><tspan x="0" y="0" class="st1 st6">Learned the importance of hard work at the early age of fifteen </tspan><tspan x="0" y="12" class="st1 st6">and throughout four years of highschool.</tspan><tspan x="0" y="24" class="st1 st6">Began as a dish boy and progressed to buss boy, cashier, </tspan><tspan x="0" y="36" class="st1 st6">server and cook.</tspan></text>
 <circle cx="232.4" cy="215.5" r="2"/>
+<circle cx="232.4" cy="226.6" r="2"/>
+<circle cx="232.4" cy="237.8" r="2"/>
 <circle cx="232.4" cy="285.1" r="2"/>
 <circle cx="232.4" cy="297.3" r="2"/>
 <circle cx="232.4" cy="309.4" r="2"/>
@@ -74,9 +76,9 @@
 <circle cx="231.7" cy="378.9" r="2"/>
 <circle cx="231.7" cy="425.4" r="2"/>
 <circle cx="231.7" cy="449.5" r="2"/>
-<text transform="matrix(1 0 0 1 78.1023 252.1982)" class="st1 st12">May 2015 - August 2015</text>
-<text transform="matrix(1 0 0 1 78.1024 323.1395)" class="st1 st12">May 2013 - August 2013</text>
-<text transform="matrix(1 0 0 1 76.6757 392.3454)" class="st1 st12">May 2011 - August 2012</text>
+<text transform="matrix(1 0 0 1 78.1023 252.1982)" class="st1 st12">October 2015 - Present</text>
+<text transform="matrix(1 0 0 1 78.1024 323.1395)" class="st1 st12">May 2015 - August 2015</text>May 2015 - August 2015
+<text transform="matrix(1 0 0 1 76.6757 392.3454)" class="st1 st12">May 2013 - August 2013</text>
 <text transform="matrix(1 0 0 1 76.2004 463.0509)" class="st1 st12">May 2006 - August 2010</text>
 <text transform="matrix(1.0174 0 0 1 231.6667 500.0586)" class="st0 st1 st7 st8">EDUCATION</text>
 <line class="st9" x1="213" y1="496.1" x2="76.1" y2="496.1"/>
